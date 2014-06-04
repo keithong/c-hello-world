@@ -13,6 +13,7 @@ int main(int argc, const char * argv[])
 
     // insert code here...
     printf("Hello, Dev1.0!\n");
+    printf("Hello, Git!");
     return 0;
 }
 
